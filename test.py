@@ -1,1 +1,2 @@
-print("HelloDICT!")
+print("Python education")
+
